@@ -81,16 +81,6 @@ train &lt;- train[,-corBad]
 train&lt;-transform(train,classe=classe,user_name=user)</code></pre>
 <p>Next I fit my model to the training set. Random Forest randomly selects variables for each node, so I am comparing sizes 2, 7 and 23 for this purpose using the mtry parameter. I am also employing 6-fold cross validation to approximate out-of-sample error. I am also centering/scaling the data to make the variables comparable and applying principal components to reduce variables to a set of uncorrelated features that explain 95% of the datset’s variance.</p>
 <pre class="r"><code>(fit1&lt;-train(classe~.,data=train,method=&quot;rf&quot;,preProcess=c(&quot;center&quot;,&quot;scale&quot;,&quot;pca&quot;),trControl=trainControl(method='cv',number=6),tuneGrid=data.frame(mtry=c(2,7,23))))</code></pre>
-<pre><code>## Loading required package: randomForest</code></pre>
-<pre><code>## Warning: package 'randomForest' was built under R version 3.1.2</code></pre>
-<pre><code>## randomForest 4.6-10
-## Type rfNews() to see new features/changes/bug fixes.
-## 
-## Attaching package: 'randomForest'
-## 
-## The following object is masked from 'package:Hmisc':
-## 
-##     combine</code></pre>
 <pre><code>## Random Forest 
 ## 
 ## 19622 samples
