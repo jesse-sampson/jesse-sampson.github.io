@@ -1,2 +1,2 @@
-## Coursera Practical Machine Learning Submission
-This repo contains files pertaining to my submission for the JHU data science specialization, Practical Machine Learning course. 
+## Jesse Sampson's Personal GitHub
+This repo just has my resume right now.
