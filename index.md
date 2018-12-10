@@ -1,11 +1,13 @@
 Jesse T. Sampson | Austin, TX
 ============
-> <jesse.sampson@gmail.com> | (512) 785-2543 | <http://linkedin.com/in/jessetsampson/>
+<!--
+	> <jesse.sampson@gmail.com> | (512) 785-2543 | <http://linkedin.com/in/jessetsampson/>
+-->
 
 Work History
 ----------
 
-**Ziften | Director, Analytics:** I am responsible for making sure useful results come out of the Ziften platform, developing new methods and techniques to improve the value of our offering, and supporting the success of our engagements across industries. 
+**Ziften (September 2016-present) | Director, Analytics:** I am responsible for making sure useful results come out of the Ziften platform, developing new methods and techniques to improve the value of our offering, and supporting the success of our engagements across industries. 
 
 * Develop anomaly detectors & behavior profiling with tools like clustering, random forests and neural networks
 * Write integrations for Ziften platform with other tools and platforms
@@ -13,8 +15,8 @@ Work History
 * Write blogs on leading-edge analytics work to position Ziften as a thought leader in the space
 
 
-**21CT | Data Scientist:**
-During my time at 21CT I learned how to develop on a platform rather as well as how to get business results from data science techniques. During this time I advanced from data analyst to the data science team due to demonstrated analytics skills. 
+**21CT (December 2013-August 2016) | Data Scientist:**
+During my time at 21CT I learned how to develop on a platform as well as how to get business results from data science techniques. During this time I advanced from data analyst to the data science team due to demonstrated analytics skills. 
 
 * Developed graph-based anomaly detection methodology to power fraud risk scoring
 * Created data model to analyze claims from disparate insurance payers
@@ -22,7 +24,7 @@ During my time at 21CT I learned how to develop on a platform rather as well as 
 * Used regression analysis to identify data quality issues leading to savings over $2 million
 
 
-**Texas Workforce Commission | Data Analyst:**
+**Texas Workforce Commission (September 2011-November 2013) | Data Analyst:**
 At TWC I was responsible for getting/cleaning data and performing statistical analysis to evaluate workforce training program outcomes. I also worked on employment projections, employment surveys, and provided datasets to research partners. 
 
 * Analyzed data using SQL, R & Python to evaluate outcomes of workforce training programs
@@ -46,7 +48,7 @@ Education
 Skills and etc.
 ----------------------------------------
 Programming
-: I use SQL and Python (particularly Pandas and Scikit-learn for analysis) and Bash every day. Skilled at R programming and have given several talks to the Austin useR's Group. 
+: I use SQL and Bash every day and Python and R for scripting and modeling. I have given several talks to the Austin useR's Group. I can use APIs and other development tools like Git. I am good at getting and cleaning data from various sources including the wild. 
  
 Etc.
 : I worked as an admin assistant for four years before and during graduate school so I have excellent business and communication skills and am great at taking criticism whether I deserve it or not. I also worked as a writing consultant in college and in other roles involving writing and speaking e.g. at Stratfor. I speak three languages: English (native), Mandarin (proficiency) and Japanese (proficiency, JLPT Level 2 Certified). My favorite activity is to take my kayak out on Lady Bird Lake in Austin when the lake is full of Herons and Egrets. 
