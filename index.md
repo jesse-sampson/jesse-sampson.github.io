@@ -6,7 +6,7 @@ Jesse T. Sampson | Austin, TX
 Work History
 ----------
 
-**Ziften (September 2016-present) | Director, Analytics:** Ziften is an Endpoint Protection Platform company offering Endpoint Detection and Response, Advanced Antivirus and more. I am responsible for making sure useful results come out of the Ziften Endpoint Protection platform, developing new methods and techniques to improve the value of our offering, and supporting the success of our information security engagements across industries which requires a unique mix of analytical, communication, and data engineering skills. 
+**Ziften (September 2016-present) | Director, Analytics:** Ziften is an Endpoint Protection Platform company offering Endpoint Detection and Response, Advanced Antivirus and more. I am responsible for making sure useful results come out of the platform, developing new methods and techniques to improve the value of our offering and supporting the success of our information security engagements across industries which requires a unique mix of analytical, communication, and data engineering skills. 
 
 * Work directly with technical and executive customers to identify use cases for Ziften platform
 * Develop models to detect malware and anomalies using modern machine learning techniques
