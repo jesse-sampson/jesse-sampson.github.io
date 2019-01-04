@@ -5,9 +5,10 @@ Jesse T. Sampson | Austin, TX
 
 Work History
 ----------
-
-**Ziften (September 2016-present) | Director, Analytics:** Ziften is an Endpoint Protection Platform company offering Endpoint Detection and Response, Advanced Antivirus and more. I am responsible for making sure useful results come out of the platform, developing new methods and techniques to improve the value of our offering and supporting the success of our information security engagements across industries which requires a unique mix of analytical, communication, and data engineering skills. 
-
+ 
+**Ziften (September 2016-present) | Director, Analytics**
+<details><summary>About Ziften</summary>Ziften is an Endpoint Protection Platform company offering Endpoint Detection and Response, Advanced Antivirus and more. I am responsible for making sure useful results come out of the platform, developing new methods and techniques to improve the value of our offering and supporting the success of our information security engagements across industries which requires a unique mix of analytical, communication, and data engineering skills. 
+</details>
 * Work directly with technical and executive customers to identify use cases for Ziften platform
 * Develop models to detect malware and anomalies using modern machine learning techniques
 * Write integrations for Ziften platform with other tools and existing infrastructure
@@ -15,23 +16,30 @@ Work History
 * Deploy, configure and integrate the Ziften platform and field customer inquiries 
 * Demonstrate the platform and train customers on the use of the Ziften platform
 
-**21CT (December 2013-August 2016) | Data Scientist:**
-21CT (now Pulselight) is a data analytics company in the health care space. At 21CT I learned how to develop on a platform as well as how to get business results from data science techniques. I also advanced from data analyst to the data science team after using regression analysis to identify data quality issues leading to savings over $2 million. 
+**21CT (December 2013-August 2016) | Data Scientist**
+<details><summary>About 21CT</summary>21CT (now Pulselight) is a data analytics company in the health care space. At 21CT I learned how to develop on a platform as well as how to get business results from data science techniques. I also advanced from data analyst to the data science team after using regression analysis to identify data quality issues leading to savings over $2 million. 
+</details>
 
 * Wrote code in R, SQL and Python to extend analytics platform to meet customer use cases
 * Presented analytical findings to customers and processed feedback
 
-**Texas Workforce Commission (September 2011-November 2013) | Data Analyst:**
-The Texas Workforce Commission is a state agency that runs many education and training programs among other things. At TWC I was responsible for getting/cleaning data and using SQL, R and Python to evaluate workforce training program outcomes. I also worked on projections, surveys, and provided datasets to research partners. 
+**Texas Workforce Commission (September 2011-November 2013) | Data Analyst**
+<details><summary>About Texas Workforce Commission</summary>The Texas Workforce Commission is a state agency that runs many education and training programs among other things. At TWC I was responsible for getting/cleaning data and using SQL, R and Python to evaluate workforce training program outcomes. I also worked on projections, surveys, and provided datasets to research partners. 
+</details>
 
 * Automated generation of mandated reports; reduced production time from 10 to 3 months
 * Implemented nation’s first interactive dashboard in this space; presented at state/national conferences
 
-**Vianovo (June 2010-September 2011) | Associate:**
-Vianovo is a communications and public relations consultancy. At Vianovo I helped worked directly with clients to develop and execute strategies to succeed in areas like tax policy, border security and higher education.
+**Vianovo (June 2010-September 2011) | Associate**
+<details><summary>About Vianovo</summary>**Vianovo is a communications and public relations consultancy.</details>
+* Worked directly with clients to develop and execute advocacy strategies 
+* Projects included areas like tax policy, border security and higher education
 
-**Stratfor | Open Source Analyst:**
-Stratfor is an open-source Geopolitical analysis firm. At Stratfor I monitored intelligence sources and wrote reports and analyses based on findings and leveraged open source threat intelligence to provide useful intel to readers and customers. 
+**Stratfor | Open Source Analyst**
+<details><summary>About Stratfor</summary> Stratfor is an open-source Geopolitical analysis firm.
+</details>
+* I monitored intelligence sources and wrote reports and analyses based on findings 
+* leveraged open source threat intelligence to provide useful intel to readers and customers 
 
 Education
 ---------
