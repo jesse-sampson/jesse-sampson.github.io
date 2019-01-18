@@ -5,16 +5,23 @@ Jesse T. Sampson | Austin, TX
 
 Work History
 ----------
- 
-**Ziften (September 2016-present) | Director, Analytics**
-<details><summary>About Ziften</summary>Ziften is an Endpoint Protection Platform company offering Endpoint Detection and Response, Advanced Antivirus and more. I am responsible for making sure useful results come out of the platform, developing new methods and techniques to improve the value of our offering and supporting the success of our information security engagements across industries which requires a unique mix of analytical, communication, and data engineering skills. 
+
+**Emergynt (January 2019-Present) | Sales Engineer/Customer Success Lead**
+<details><summary>About Emergynt</summary>Emergynt is a Digital Risk analysis company. Our tools help customers establish and communicate corporate Digital Risk Appetite and manage to those expectations. We make it easy to tell a compelling--yet rigorous and externally defensible--Risk Story to boards, investors, regulators or anyone.
 </details>
-* Work directly with technical and executive customers to identify use cases for Ziften platform
-* Develop models to detect malware and anomalies using modern machine learning techniques
-* Write integrations for Ziften platform with other tools and existing infrastructure
-* Customize Ziften platform as needed to meet unique or changing customer requirements
-* Deploy, configure and integrate the Ziften platform and field customer inquiries 
-* Demonstrate the platform and train customers on the use of the Ziften platform
+* Demonstrate the product in pre-sales and customer success contexts
+* Develop and curate analytical content for demonstration and sharing with customers
+* Work with customers to deploy and configure Emergynt tools
+ 
+**Ziften (September 2016-December 2018) | Director, Analytics**
+<details><summary>About Ziften</summary>Ziften is an Endpoint Protection Platform company offering Endpoint Detection and Response, Advanced Antivirus and more. I was responsible for making sure useful results come out of the platform, developing new methods and techniques to improve the value of our offering and supporting the success of our information security engagements across industries which required a unique mix of analytical, communication, and data engineering skills. 
+</details>
+* Worked directly with technical and executive customers to identify use cases for Ziften platform
+* Developed models to detect malware and anomalies using modern machine learning techniques
+* Wrote integrations for Ziften platform with other tools and existing infrastructure
+* Customized Ziften platform as needed to meet unique or changing customer requirements
+* Deployed, configured and integrated the Ziften platform and fielded customer inquiries 
+* Demonstrated the platform and trained customers on the use of the Ziften platform
 
 **21CT (December 2013-August 2016) | Data Scientist**
 <details><summary>About 21CT</summary>21CT (now Pulselight) is a data analytics company in the health care space. At 21CT I learned how to develop on a platform as well as how to get business results from data science techniques. I also advanced from data analyst to the data science team after using regression analysis to identify data quality issues leading to savings over $2 million. 
@@ -27,7 +34,7 @@ Work History
 <details><summary>About Texas Workforce Commission</summary>The Texas Workforce Commission is a state agency that runs many education and training programs among other things. At TWC I was responsible for getting/cleaning data and using SQL, R and Python to evaluate workforce training program outcomes. I also worked on projections, surveys, and provided datasets to research partners. 
 </details>
 
-* Automated generation of mandated reports; reduced production time from 10 to 3 months
+* Automated generation of mandated reports using SQL, R and Python; reduced production time from 10 to 3 months
 * Implemented nation’s first interactive dashboard in this space; presented at state/national conferences
 
 **Vianovo (June 2010-September 2011) | Associate**
