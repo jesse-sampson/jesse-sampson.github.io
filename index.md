@@ -34,7 +34,7 @@ Work History
 <details><summary>About Texas Workforce Commission</summary>The Texas Workforce Commission is a state agency that runs many education and training programs among other things. At TWC I was responsible for getting/cleaning data and using SQL, R and Python to evaluate workforce training program outcomes. I also worked on projections, surveys, and provided datasets to research partners. 
 </details>
 
-* Automated generation of mandated reports using SQL, R and Python; reduced production time from 10 to 3 months
+* Automated generation of mandated reports using SQL, R and Python; reduced production time 3x
 * Implemented nation’s first interactive dashboard in this space; presented at state/national conferences
 
 **Vianovo (June 2010-September 2011) | Associate**
