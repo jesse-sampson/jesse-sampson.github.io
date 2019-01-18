@@ -7,7 +7,7 @@ Work History
 ----------
 
 **Emergynt (January 2019-Present) | Sales Engineer/Customer Success Lead**
-<details><summary>About Emergynt</summary>Emergynt is a Digital Risk analysis company. Our tools help customers establish and communicate corporate Digital Risk Appetite and manage to those expectations. We make it easy to tell a compelling--yet rigorous and externally defensible--Risk Story to boards, investors, regulators or anyone.
+<details><summary>About Emergynt (click arrow to expand)</summary>Emergynt is a Digital Risk analysis company. Our tools help customers establish and communicate corporate Digital Risk Appetite and manage to those expectations. We make it easy to tell a compelling--yet rigorous and externally defensible--Risk Story to boards, investors, regulators or anyone.
 </details>
 * Demonstrate the product in pre-sales and customer success contexts
 * Develop and curate analytical content for demonstration and sharing with customers
