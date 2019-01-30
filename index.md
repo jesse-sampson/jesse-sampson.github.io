@@ -38,7 +38,7 @@ Work History
 * Implemented nation’s first interactive dashboard in this space; presented at state/national conferences
 
 **Vianovo (June 2010-September 2011) | Associate**
-<details><summary>About Vianovo</summary>**Vianovo is a communications and public relations consultancy.</details>
+<details><summary>About Vianovo</summary>Vianovo is a communications and public relations consultancy.</details>
 * Worked directly with clients to develop and execute advocacy strategies 
 * Projects included areas like tax policy, border security and higher education
 
