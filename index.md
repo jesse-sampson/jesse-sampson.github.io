@@ -10,13 +10,13 @@ Work History
 <details><summary>About Emergynt (click arrow to expand)</summary>Emergynt is a Digital Risk analysis company. Our tools help customers establish and communicate corporate Digital Risk Appetite and manage to those expectations. We make it easy to tell a compelling--yet rigorous and externally defensible--Risk Story to boards, investors, regulators or anyone.
 </details>
 * Demonstrate the product in pre-sales and customer success contexts
-* Develop and curate analytical content including using the patented neural net algorithm to simulate threat scenarios
+* Develop/curate analytical content using our patented neural net algorithm to simulate threat scenarios
 * Work with customers to deploy and configure Emergynt tools
  
 **Ziften (September 2016-December 2018) | Director, Analytics**
 <details><summary>About Ziften</summary>Ziften is an Endpoint Protection Platform company offering Endpoint Detection and Response, Advanced Antivirus and more. I was responsible for making sure useful results come out of the platform, developing new methods and techniques to improve the value of our offering and supporting the success of our information security engagements across industries which required a unique mix of analytical, communication, and data engineering skills. 
 </details>
-* Developed a classifier for malware files using Keras/Tensorflow implementation of Convolutional Neural Net 
+* Developed classifier for malware files using Keras/Tensorflow implementation of Convolutional Neural Net 
 * Developed a classifier for proactive tech support using Vertica's implementation of random forests 
 * Wrote integrations for Ziften platform with other tools and technologies
 
